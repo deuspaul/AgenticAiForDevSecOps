@@ -2,7 +2,7 @@
 
     [Github Marketplace models](https://github.com/marketplace/models)
 
-    !!! Note: This feature is in preview, so results may vary.
+    📝 **Note:** This feature is in preview, so results may vary.
 
 <br/>
 
@@ -29,7 +29,7 @@
 3. Let’s test out ‘one-shot prompting’.
     Select OpenAI GPT-4.1-nano then click on compare and select OpenAI GPT-4.1 
 
-    !!!  note if no models appear in the dropdown, click on any of the models at the bottom part of the ‘Welcome to GitHub Models’ screen.
+    📝 **Note:** if no models appear in the dropdown, click on any of the models at the bottom part of the ‘Welcome to GitHub Models’ screen.
  
     <br/>
 
@@ -38,7 +38,7 @@
     ![image](./images/lab1/modelplayground1.png)
     <br/>
 
-    !!! note: Nano should be extremely fast as its intended for use cases where latency and resource efficiency are important.  
+    📝 **Note:** Nano should be extremely fast as its intended for use cases where latency and resource efficiency are important.  
 
 <br/>
 
@@ -80,7 +80,7 @@
     ![image](./images/lab1/modelplayground2.png)
     <br/>
 
-    !!! Notice Notice how Codestral is a lot faster in this case, but less detailed than 
+    📝 **Note:** Notice how Codestral is a lot faster in this case, but less detailed than 
 
     <br/>
 
@@ -98,9 +98,9 @@
 
     ![image](./images/lab1/modelplayground3.png)
 
-    !!! Notice On some examples you may reach the maximum token limit for the output
+    📝 **Note:** On some examples you may reach the maximum token limit for the output
     <br/>
-    
+
 6.  And next, we will try ‘role-based prompting’
     For this lets try OpenAI GPT-4.1 mini vs Llama 4 Scout 17B
 
