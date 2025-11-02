@@ -5,11 +5,11 @@
  Follow the instruction in the [Getting started](#getting-started) setion to set up the necessary accounts for these labs.
 <br/>
 
-1. [Lab 1: Explore AI models and set up GitHub Copilot](https://github.com/deuspaul/AgenticAiForDevSecOps/blob/main/lab1.md)
-1.  [Lab 2: Create a project with AI in Codespaces](https://github.com/deuspaul/AgenticAiForDevSecOps/blob/main/lab2.md)
-1.  [Lab 3: Use pull requests to integrate code changes](https://github.com/deuspaul/AgenticAiForDevSecOps/blob/main/lab3.md)
-1. [Lab 4: Automate tasks with Azure pipelines](https://github.com/deuspaul/AgenticAiForDevSecOps/blob/main/lab4.md)
-1. [Lab 5: Create a source code release](https://github.com/deuspaul/AgenticAiForDevSecOps/blob/main/lab5.md)
+1. [Lab 1: Explore AI models and set up GitHub Copilot](./lab1.md)
+1.  [Lab 2: Create a project with AI in Codespaces](./lab2.md)
+1.  [Lab 3: Use pull requests to integrate code changes](./lab3.md)
+1. [Lab 4: Automate tasks with Azure pipelines](./lab4.md)
+1. [Lab 5: Create a source code release](./lab5.md)
  
 <br/>
 
