@@ -23,15 +23,23 @@
    ![image](./images/gs-1.png)
 <br/>
 
-3. Next, sign up for a GitHub account (in case you don’t already have one) at:  
+3. Once you authenticate with your Microsoft account, create a project and make sure the project visibility is set to ‘public’.
+   ![image](./images/gs-5.png)
+   This will take you to the following page, :
+   ![image](./images/gs-6.png)
+   📝 **Note:** You can leave this tab open as we will use it in the upcoming lessons.
+
+   <br/>
+
+4. Next, sign up for a GitHub account (in case you don’t already have one) at:  
    [https://github.com/signup](https://github.com/signup)  
    ![image](./images/gs-2.png)
 <br/>
 
-4. Next, we will enable GitHub Copilot.  
+5. Next, we will enable GitHub Copilot.  
    Click on your profile at the top right corner and next click on ‘Copilot Settings’  
    ![image](./images/gs-3.png)
    <br/>
 
-5. Make sure ‘Show Copilot’ appears as enabled:  
+6. Make sure ‘Show Copilot’ appears as enabled:  
    ![image](./images/gs-4.png)
