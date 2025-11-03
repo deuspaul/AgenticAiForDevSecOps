@@ -32,7 +32,7 @@ git remote -v
 
 6)	Next, we will need an Azure DevOps access token to be able to push code from codespaces to Azure DevOps
 In Azure Devops, click on user settings at the top right
-And click on ‘Personal Access Tokens’
+And click on ‘Personal Access Tokens’<br/>
 ![image](./images/lab3/lab3-6.png)
 
 <br />
@@ -143,8 +143,8 @@ python src/todo.py list
 
 <br />
 
-22)	And next, sync the changes:
-![image](./images/lab3/lab3-22.png)
+22)	And next, sync the changes:<br/>
+![image](./images/lab3/lab3-22.png)<br/>
 📝 **Note:**It will ask for the Access token, so be sure to paste it in
 
 <br />

@@ -40,12 +40,12 @@ and click on ‘Create Codespaces on main’
 
 <br />
 
-8) next click on enable:
+8) next click on enable:<br/>
 ![image](./images/lab2/lab2-8.png)
 
 <br/>
 
-9) It should create the file for you:
+9) It should create the file for you:<br/>
 ![image](./images/lab2/lab2-9.png)
 
 <br />
@@ -80,7 +80,7 @@ and click on ‘Create Codespaces on main’
 
 15) Now lets give it the following prompt:
 Fill the existing empty .gitignore file with entries suitable for a standard Python project. Stage and commit the file to the Git repository with a clear commit message.
-📝 **Note:** If it asks you to enable Claude Sonnet 3.5 for all clients, click on ‘Enable’
+📝 **Note:** If it asks you to enable Claude Sonnet 3.5 for all clients, click on ‘Enable’<br/>
 ![image](./images/lab2/lab2-15.png)
 
 <br />
@@ -126,7 +126,7 @@ Once done, you should see the .gitignore file in the ‘Explorer’ pane.
 Write a Python CLI app skeleton for a to-do list using argparse to handle commands (add, list) and JSON for task storage. 
 Step 1: Create a new branch and save the generated code as src/todo.py and tasks.json
 Step 2: Include a main function and basic file structure as well as the requirements.txt file
-Step 3: update the readme.md file with a description of the repository
+Step 3: update the readme.md file with a description of the repository <br/>
 ![image](./images/lab2/lab2-22.png)
 
 <br />
@@ -179,7 +179,7 @@ Commit the changes to this branch and merge the '<replace with your todo-cli bra
 <br />
 
 29) As usual, it will ask for permissions, be sure to review the changes and click on ‘Allow’ if the changes look correct
-![image](./images/lab2/lab2-29.png)
+![image](./images/lab2/lab2-29.png)<br />
 📝 **Note:** Afterwards, it should checkout main and merge the feature branch (‘todo-cli-app’ in this guide) into main
 and delete the feature branch (‘todo-cli-app’)
 
