@@ -13,6 +13,12 @@
  
 <br/>
 
+### Sample code:
+[Sample GitHub repository](https://github.com/kidcuda82-cmd/ado-ai)
+This repository contains the sample code used in the labs. 
+
+<br/>
+
 ## Getting Started
 
 1. Review Azure DevOps and sign up for an account in the following link:  
