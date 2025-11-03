@@ -41,15 +41,46 @@ Step 4: add a step in the azure devops pipeline to zip the application and publi
 ![image](./images/lab5/lab5-6-3.png)
 <br/>
 
-
-
-
-
-
-7)	 After If the pipeline succeded you should be able to see a tag with the version specified in the azure-pipeline.yml file
-As well as the artifacts which contain the changelog file
+7)	 Unfortunately, the pipeline failed when running on the main branch due to an authentication error:
 ![image](./images/lab5/lab5-7.png)
 
 <br/>
 
+8)	Lets go back to codespaces and resolve this issue:
+Make sure you are on the main branch, then pull latest changes
+Then input the following prompt
+```
+The ‘<failed step display name>’ is running into an error:
+<error message>. Create a new branch and fix this error
+```
+![image](./images/lab5/lab5-8.png)
+![image](./images/lab5/lab5-8-2.png)
+
+<br/>
+
+9)	Next lets publish the branch:
+![image](./images/lab5/lab5-9.png)
+
+<br/>
+
+10)	 And create a new pull request and merge it to main
+![image](./images/lab5/lab5-10.png)
+
+<br/>
+
+11)	After merging the branch If the new pipeline in the main branch succeeded you should be able to see a tag with the version specified in the azure-pipeline.yml file
+![image](./images/lab5/lab5-11.png)
+
+<br/>
+
+12)	As well as the artifacts which contain the changelog file
+![image](./images/lab5/lab5-12.png)
+![image](./images/lab5/lab5-12-2.png)
+![image](./images/lab5/lab5-12-3.png)
+<br/>
+
+### And that concludes lab 5! You have successfully implemented a release pipeline with the assistance of AI!
+⭐
+### Congratulations on completing all the labs in this series! You have gained hands-on experience in leveraging AI to enhance your software development lifecycle, from coding, security and code reviews to CI/CD pipelines. Keep exploring and applying these skills in your future projects!
+🏆
 
