@@ -7,7 +7,7 @@
 In pool to link select ‘New’ 
 and select ‘Self-Hosted’
 name it: ‘ado-ai’
-and in ‘Pipeline permissions’ mark the ‘Grant access permissions to all pipelines’ checkbox
+and in ‘Pipeline permissions’ mark the ‘Grant access permissions to all pipelines’ checkbox <br/>
     ![image](./images/lab4/lab4-2.png)
 
 <br/>
@@ -65,7 +65,7 @@ It will ask for the Access Token
 <br/>
 
 11)	Once done, head back to codespaces and switch to the main branch and pull the latest changes
-(the ‘myagent/’ directory should now be part of the .gitignore file)
+(the ‘myagent/’ directory should now be part of the .gitignore file) <br/>
 ![image](./images/lab4/lab4-11.png)
 
 <br/>
@@ -128,7 +128,7 @@ add a new terminal session with bash to prevent disruption the terminal session 
 19)	Next, close all open files except ‘todo.py’
 In copilot chat, input the following prompt:
 As a Python testing expert, write unit tests for the to-do list CLI app’s add, list and complete functions using pytest in a new feature branch.
-![image](./images/lab4/lab4-19.png)
+![image](./images/lab4/lab4-19.png) <br/>
 ![image](./images/lab4/lab4-19-2.png)
 
 <br/>
@@ -152,7 +152,7 @@ Select the ado remote repo:
 <br/>
 
 23)	In codespaces, switch to the main branch and pull the changes
-Don’t forget to give it a couple of seconds to update before moving on to the next steps (it may ask you for your token again)
+Don’t forget to give it a couple of seconds to update before moving on to the next steps (it may ask you for your token again) <br/>
 ![image](./images/lab4/lab4-23.png)
 
 <br/>
@@ -165,8 +165,8 @@ Step 2: The pipeline must use  the ‘ado-ai’ agent pool
 Step 3:  The pipeline must use pytest for the unit tests and it must publish the test results whether they succeed or fail
 Step 4: The pipeline must publish code coverage results with cobertura
 Step 5: The pipeline must use bandit to identify vulnerabilities and publish a report
-Step 6: The pipeline must use trivy for dependency scanning and publish a report
-![image](./images/lab4/lab4-24.png)
+Step 6: The pipeline must use trivy for dependency scanning and publish a report <br/>
+![image](./images/lab4/lab4-24.png)<br/>
 ![image](./images/lab4/lab4-24-2.png)
 
 <br/>
@@ -219,8 +219,8 @@ Click on run
 31)	As usual, we have to change to the main branch and pull the latest updates.
 Then lets give the following prompt to copilot chat:
 
-The trivy-plugin appears to be unavailable or deprecated. Please create a new branch and update the pipeline to use an alternative method for installing Trivy, such as the official installation script or a supported package manager.
-![image](./images/lab4/lab4-31.png)
+The trivy-plugin appears to be unavailable or deprecated. Please create a new branch and update the pipeline to use an alternative method for installing Trivy, such as the official installation script or a supported package manager. <br/>
+![image](./images/lab4/lab4-31.png)<br/>
 ![image](./images/lab4/lab4-31-2.png)
 
 <br/>
@@ -230,7 +230,7 @@ The trivy-plugin appears to be unavailable or deprecated. Please create a new br
 
 <br/>
 
-33)	As usual, lets commit (if needed) and publish this branch
+33)	As usual, lets commit (if needed) and publish this branch <br/>
 ![image](./images/lab4/lab4-33.png)
 
 <br/>

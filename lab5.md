@@ -20,8 +20,8 @@ As a highly experienced release manager, help us release this application and ad
 Step 1: create a new branch for these changes
 Step 2:  add a step in the azure devops pipeline to create the git tag for this release using semantic versioning 
 Step 3: add a step in the azure devops pipeline to create the release notes in a changelog file
-Step 4: add a step in the azure devops pipeline to zip the application and publish it as an artifact
-![image](./images/lab5/lab5-3.png)
+Step 4: add a step in the azure devops pipeline to zip the application and publish it as an artifact <br/>
+![image](./images/lab5/lab5-3.png) <br/>
 ![image](./images/lab5/lab5-3-2.png)
 <br/>
 
